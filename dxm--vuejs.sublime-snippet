@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<!-- Vue.js | Production version, optimized for size and speed -->
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+]]></content>
+	<tabTrigger>vuejs</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

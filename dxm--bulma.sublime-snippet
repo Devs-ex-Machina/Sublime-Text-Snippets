@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<!-- Bulma.io | https://cdnjs.com/libraries/bulma -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+]]></content>
+	<tabTrigger>bulma</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
